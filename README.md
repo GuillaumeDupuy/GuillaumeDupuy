@@ -3,9 +3,9 @@
 
 <p align="center">Welcome to my page! </br> 
   <samp>
-    :wave: Hi, I'm Guillaume,  
+    :wave: I'm Guillaume,  
     <br>I'm developer and DATA Scientist from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
-    <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France</b> :sparkles:<br><br>
+    <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France Tuesday, 25 January, 21:24 CET </b> :sparkles:<br><br>
   </samp>
 </p>
 
