@@ -15,7 +15,6 @@ let DATA = {
     day: 'numeric',
     hour: 'numeric',
     minute: 'numeric',
-    timeZoneName: 'short',
     timeZone: 'Europe/Paris',
   }),
 };
