@@ -1,20 +1,14 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
-
 <p align="center">Welcome to my page! </br> 
   <samp>
     :wave: I'm Guillaume,  
     <br>I'm developer and DATA Scientist from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
-    <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France, Tuesday, 25 January, 21:43 </b> :sparkles:<br><br>
+    <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France, Tuesday, 25 January, 21:45 </b> :sparkles:<br><br>
   </samp>
 </p>
 
 <h3>Things I code with</h3>
 
 <p>
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -28,7 +22,9 @@
   <img alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
- 
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /> 
 </p>
 
 <h3>Open source projects</h3>
@@ -62,8 +58,7 @@
 
 <h3>My Stats Account</h3>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=GuillaumeDupuy&theme=blue-green"/></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeDupuy&theme=blue-green"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GuillaumeDupuy&theme=blue-green"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeDupuy&theme=blue-green"/></p>
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/GuillaumeDupuy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/guill_dup" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/guillaume-dupuy/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></p>
