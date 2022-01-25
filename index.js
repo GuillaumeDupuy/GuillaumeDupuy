@@ -13,6 +13,9 @@ let DATA = {
     weekday: 'long',
     month: 'long',
     day: 'numeric',
+    timeZone: 'Europe/Paris',
+  }),
+  heure: new Date().toLocaleDateString('en-GB', {
     hour: 'numeric',
     minute: 'numeric',
     timeZone: 'Europe/Paris',
