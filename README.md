@@ -3,7 +3,7 @@
     :wave: I'm Guillaume,  
     <br>I'm developer and DATA Scientist from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
     <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b> 
-    <br> We are the Thursday, 27 January and it is 27&#x2F;01&#x2F;2022, 03:34:sparkles:<br><br>
+    <br> We are the Thursday, 27 January and it is 27&#x2F;01&#x2F;2022, 04:21:sparkles:<br><br>
   </samp>
 </p>
 
