@@ -3,7 +3,7 @@
     :wave: I'm Guillaume,  
     <br>I'm developer and DATA Scientist from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
     <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b> 
-    <br> We are the Friday, 28 January and it is 28&#x2F;01&#x2F;2022, 12:13:sparkles:<br><br>
+    <br> We are the Friday, 28 January and it is 28&#x2F;01&#x2F;2022, 12:18 ✨<br><br>
   </samp>
 </p>
 
@@ -32,7 +32,7 @@
 
 <table>
   <thead align="center">
-    <tr border: none;>
+    <tr>
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
