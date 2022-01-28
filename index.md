@@ -1,9 +1,9 @@
 <p align="center">Welcome to my page! </br> 
   <samp>
-    :wave: I'm {{name}},  
+    :wave: I'm Guillaume,  
     <br>I'm developer and DATA Scientist from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
     <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b> 
-    <br> We are the {{date}} and it is {{heure}} ✨<br><br>
+    <br> We are the Friday, 28 January and it is 28&#x2F;01&#x2F;2022, 12:13:sparkles:<br><br>
   </samp>
 </p>
 
@@ -31,20 +31,24 @@
 <h3>Open source projects</h3>
 
 <table>
-    <tr>
-      <th><b>🎁 Projects</b></th>
-      <th><b>⭐ Stars</b></th>
-      <th><b>📚 Forks</b></th>
-      <th><b>🛎 Issues</b></th>
-      <th><b>📬 Pull requests</b></th>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
     </tr>
+  </thead>
+  <tbody>
     <tr>
-      <th><a href="https://github.com/GuillaumeDupuy/Site_Portfolio"><b>Site PortFolio</b></a></th>
+      <td><a href="https://github.com/GuillaumeDupuy/Site_Portfolio"><b>Site PortFolio</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/GuillaumeDupuy/Site_Portfolio.svg"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/GuillaumeDupuy/Site_Portfolio.svg"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/GuillaumeDupuy/Site_Portfolio.svg"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GuillaumeDupuy/Site_Portfolio.svg"/></td>
     </tr>
+  </tbody>
 </table>
 
 <h3>My latest posts</h3>
@@ -61,6 +65,5 @@
 <h3>Where to find me</h3>
 <p align="center"><a href="https://github.com/GuillaumeDupuy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/guill_dup" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/guillaume-dupuy/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
-<hr>
-
+------------
 <p align="center">Template By GuillaumeDupuy</p>
