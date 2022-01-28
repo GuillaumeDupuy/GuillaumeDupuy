@@ -32,14 +32,14 @@
 
 <table>
     <tr>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
+      <th><b>🎁 Projects</b></th>
+      <th><b>⭐ Stars</b></th>
+      <th><b>📚 Forks</b></th>
+      <th><b>🛎 Issues</b></th>
+      <th><b>📬 Pull requests</b></th>
     </tr>
     <tr>
-      <td><a href="https://github.com/GuillaumeDupuy/Site_Portfolio"><b>Site PortFolio</b></a></td>
+      <th><a href="https://github.com/GuillaumeDupuy/Site_Portfolio"><b>Site PortFolio</b></a></th>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/GuillaumeDupuy/Site_Portfolio.svg"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/GuillaumeDupuy/Site_Portfolio.svg"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/GuillaumeDupuy/Site_Portfolio.svg"/></td>
