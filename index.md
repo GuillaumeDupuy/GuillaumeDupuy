@@ -3,7 +3,7 @@
     👋 I'm Guillaume,  
     <br>I'm developer and DATA Scientist from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
     <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b> 
-    <br> We are the Friday, 28 January and it is 28&#x2F;01&#x2F;2022, 13:53 ✨<br><br>
+    <br> We are the Tuesday, 3 May and it is 03&#x2F;05&#x2F;2022, 11:20 ✨<br><br>
   </samp>
 </p>
 
@@ -65,5 +65,6 @@
 <h3>Where to find me</h3>
 <p align="center"><a href="https://github.com/GuillaumeDupuy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/guill_dup" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/guillaume-dupuy/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
-------------
+<hr>
+
 <p align="center">Template By GuillaumeDupuy</p>
