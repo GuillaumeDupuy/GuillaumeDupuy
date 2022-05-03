@@ -3,7 +3,7 @@
     👋 I'm Guillaume,  
     <br>I'm developer and DATA Scientist from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
     <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b> 
-    <br> We are the Friday, 28 January and it is 28&#x2F;01&#x2F;2022, 13:53 ✨<br><br>
+    <br> We are the Tuesday, 3 May and it is 03&#x2F;05&#x2F;2022, 11:23 ✨<br><br>
   </samp>
 </p>
 
@@ -55,6 +55,8 @@
 <ul>
   <li><a href="https://guillaumedupuy.fr/"><b>Site PortFolio</b></a><br/><i>Site CV</i><br/><img alt="Issues" src="https://img.shields.io/website-up-down-green-red/http/guillaumedupuy.fr.svg"/></li>
   <li><a href="https://github.com/GuillaumeDupuy/Projet_NoSQL"><b>Projet NoSQL</b></a><br/><i>Projet d'analyse d'une API en MongoDB</i></li>
+  <li><a href="https://github.com/GuillaumeDupuy/Scraping_Python"><b>Projet Scraping Web & Flask API & Base de Données</b></a><br/><i>Projet de scraping de données d'un site internet, de les convertir en base de données NoSQL et de l'utiliser dans une API Flask et de faire un dashboard de ces données en Streamlit</i></li>
+  <li><a href="https://github.com/GuillaumeDupuy/Machine-Learning"><b>Projet Machine Learning</b></a><br/><i>Projet d'analyse du dataset à la main (pre-processing, visualisation, mise en place des algorithmes, optimisation et comparaison)</i></li>
 </ul>
 
 <h3>My Stats Account</h3>
@@ -63,7 +65,8 @@
 <img  src="https://github-profile-trophy.vercel.app/?username=GuillaumeDupuy&row=1)](https://github.com/ryo-ma/github-profile-trophy"/> </pre>
 
 <h3>Where to find me</h3>
-<p align="center"><a href="https://github.com/GuillaumeDupuy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/guill_dup" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/guillaume-dupuy/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+<p align="center"><a href="https://github.com/GuillaumeDupuy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/guillaume-dupuy/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
-------------
+<hr>
+
 <p align="center">Template By GuillaumeDupuy</p>
