@@ -3,7 +3,7 @@
     👋 I'm Guillaume,  
     <br>I'm developer and DATA Scientist from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
     <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b> 
-    <br> We are the Friday, 20 May and it is 20&#x2F;05&#x2F;2022, 21:16 ✨<br><br>
+    <br> We are the Friday, 20 May and it is 20&#x2F;05&#x2F;2022, 22:21 ✨<br><br>
   </samp>
 </p>
 
