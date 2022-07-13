@@ -3,7 +3,7 @@
     👋 I'm Guillaume,  
     <br>I'm developer and DATA Scientist from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
     <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b> 
-    <br> We are the Wednesday, 13 July and it is 13&#x2F;07&#x2F;2022, 16:19 ✨<br><br>
+    <br> We are the Wednesday, 13 July and it is 13&#x2F;07&#x2F;2022, 16:22 ✨<br><br>
   </samp>
 </p>
 
@@ -61,7 +61,7 @@
 
 <h3>My Stats Account</h3>
 
-<pre align="center"><img src="https://github-readme-stats.vercel.app/api?username=GuillaumeDupuy&theme=blue-green"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeDupuy&theme=blue-green"/>
+<pre align="center"><img src="https://github-readme-stats.vercel.app/api?username=GuillaumeDupuy&theme=blue-green"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeDupuy&theme=blue-green&layout=compact&langs_count=10"/>
 <img  src="https://github-profile-trophy.vercel.app/?username=GuillaumeDupuy&row=1)](https://github.com/ryo-ma/github-profile-trophy"/> </pre>
 
 <h3>Where to find me</h3>
