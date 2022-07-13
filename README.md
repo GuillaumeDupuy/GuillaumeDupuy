@@ -61,7 +61,7 @@
 
 <h3>My Stats Account</h3>
 
-<pre align="center"><img src="https://github-readme-stats.vercel.app/api?username=GuillaumeDupuy&theme=blue-green"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeDupuy&theme=blue-green"/>
+<pre align="center"><img src="https://github-readme-stats.vercel.app/api?username=GuillaumeDupuy&theme=blue-green"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeDupuy&theme=blue-green&layout=compact&langs_count=10"/>
 <img  src="https://github-profile-trophy.vercel.app/?username=GuillaumeDupuy&row=1)](https://github.com/ryo-ma/github-profile-trophy"/> </pre>
 
 <h3>Where to find me</h3>
