@@ -3,7 +3,7 @@
     👋 I'm Guillaume,  
     <br>I'm developer and DATA Scientist from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
     <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b> 
-    <br> We are the Sunday, 7 August and it is 07&#x2F;08&#x2F;2022, 07:20 ✨<br><br>
+    <br> We are the Sunday, 7 August and it is 07&#x2F;08&#x2F;2022, 08:28 ✨<br><br>
   </samp>
 </p>
 
