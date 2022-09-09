@@ -3,7 +3,7 @@
     👋 I'm Guillaume,  
     <br>I'm developer and DATA Scientist from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
     <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b> 
-    <br> We are the Friday, 9 September and it is 09&#x2F;09&#x2F;2022, 17:23 ✨<br><br>
+    <br> We are the Friday, 9 September and it is 09&#x2F;09&#x2F;2022, 18:30 ✨<br><br>
   </samp>
 </p>
 
