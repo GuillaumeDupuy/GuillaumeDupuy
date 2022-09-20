@@ -1,9 +1,10 @@
-<p align="center">Welcome to my page! <br> 
+<p align="center">Hi there ! <br> 
   <samp>
-    👋 I'm Guillaume,  
+    <img  align="center" src="https://readme-typing-svg.herokuapp.com/?lines=👋%20I%27m%20Guillaume,;Welcome+To%20My%20github%20profile.&font=Fira%20Code&center=true&width=380&height=50" 
+       style="max-width: 100%;">
     <br>I'm developer and DATA Scientist from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
     <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b> 
-    <br> We are the Tuesday, 20 September and it is 20&#x2F;09&#x2F;2022, 19:32 ✨<br><br>
+    <br> We are the Tuesday, 20 September and it is 20&#x2F;09&#x2F;2022, 20:16 ✨<br><br>
   </samp>
 </p>
 
@@ -61,8 +62,12 @@
 
 <h3>My Stats Account</h3>
 
-<pre align="center"><img src="https://github-readme-stats.vercel.app/api?username=GuillaumeDupuy&theme=blue-green"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeDupuy&theme=blue-green&layout=compact&langs_count=10"/>
-<img  src="https://github-profile-trophy.vercel.app/?username=GuillaumeDupuy&row=1)](https://github.com/ryo-ma/github-profile-trophy"/> </pre>
+[](https://activity-graph.herokuapp.com/graph?username=guillaumedupuy&theme=react-dark)
+
+<h3>Languages and Tools</h3>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=GuillaumeDupuy&theme=dracula&count_private=true&card_width=8&include_all_commits=true&show_icons=true&hide=issues"/> </p>  
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeDupuy&theme=dracula&layout=compact&langs_count=8&hide=Jupyter%20Notebook"/> </p> 
+<p> <img  src="https://github-profile-trophy.vercel.app/?username=GuillaumeDupuy&theme=dracula&title=Commits,Repositories,Followers,MultiLanguage"/> </p> 
 
 <h3>Where to find me</h3>
 <p align="center"><a href="https://github.com/GuillaumeDupuy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/guillaume-dupuy/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
