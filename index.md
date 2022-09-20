@@ -4,7 +4,7 @@
        style="max-width: 100%;">
     <br>I'm developer and DATA Scientist from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
     <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b> 
-    <br> We are the Tuesday, 20 September and it is 20&#x2F;09&#x2F;2022, 20:16 ✨<br><br>
+    <br> We are the Tuesday, 20 September and it is 20&#x2F;09&#x2F;2022, 20:19 ✨<br><br>
   </samp>
 </p>
 
@@ -62,7 +62,7 @@
 
 <h3>My Stats Account</h3>
 
-[](https://activity-graph.herokuapp.com/graph?username=guillaumedupuy&theme=react-dark)
+![](https://activity-graph.herokuapp.com/graph?username=guillaumedupuy&theme=react-dark)
 
 <h3>Languages and Tools</h3>
 <p> <img src="https://github-readme-stats.vercel.app/api?username=GuillaumeDupuy&theme=dracula&count_private=true&card_width=8&include_all_commits=true&show_icons=true&hide=issues"/> </p>  
