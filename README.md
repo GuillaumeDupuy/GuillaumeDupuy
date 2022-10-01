@@ -4,7 +4,7 @@
        style="max-width: 100%;">
     <br>I'm developer and DATA Scientist from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
     <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b> 
-    <br> We are the Saturday, 1 October and it is 01&#x2F;10&#x2F;2022, 14:52 ✨<br><br>
+    <br> We are the Saturday, 1 October and it is 01&#x2F;10&#x2F;2022, 15:48 ✨<br><br>
   </samp>
 </p>
 
