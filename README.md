@@ -4,7 +4,7 @@
        style="max-width: 100%;">
     <br>I'm developer, DATA/IA Scientist and CTF Player from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
     <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b> 
-    <br> We are the Friday, 14 October and it is 14&#x2F;10&#x2F;2022, 10:14 ✨<br><br>
+    <br> We are the Friday, 14 October and it is 14&#x2F;10&#x2F;2022, 10:23 ✨<br><br>
   </samp>
 </p>
 
@@ -21,7 +21,7 @@
 
 <h3>💻 Things I code with</h3>
 
-<p>
+<p align="center">
   <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img alt="markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -66,7 +66,7 @@
 <h3>⏱ My latest posts</h3>
 <ul>
   <li><a href="https://guillaumedupuy.fr/"><b>Site PortFolio</b></a><br/><i>Site CV</i><img alt="Site up or down" src="https://img.shields.io/website-up-down-green-red/http/guillaumedupuy.fr.svg"/></li>
-  <li><a href="https://github.com/GuillaumeDupuy/Projet_NoSQL"><b>Projet NoSQL</b></a><br/><i>Projet d'analyse d'une API en MongoDB</i></li>
+  <li><a href="https://github.com/GuillaumeDupuy/Projet_NoSQL"><b>Projet NoSQL</b></a><br/><i>MongoDB API analysis project</i></li>
   <li><a href="https://github.com/GuillaumeDupuy/Scraping_Python"><b>Web & Flask API & Database Scraping Project</b></a><br/><i>Project to scrape data from a website, convert it into a NoSQL database and use it in a Flask API and make a dashboard of this data in Streamlit</i></li>
   <li><a href="https://github.com/GuillaumeDupuy/Machine-Learning"><b>Projet Machine Learning</b></a><br/><i>Manual dataset analysis project (pre-processing, visualization, implementation of algorithms, optimization and comparison)</i></li>
   <li><a href="https://github.com/GuillaumeDupuy/CTF">CTF Online</a><br/><i>Writing CTF solutions step by step</i></li>
@@ -76,14 +76,19 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=guillaumedupuy&theme=react-dark)
 
-<pre style="display: flex; justify-content: center;"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=GuillaumeDupuy&theme=bear&count_private=true&card_width=8&include_all_commits=true&show_icons=true&hide=issues"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeDupuy&theme=bear&layout=compact&langs_count=8&hide=Jupyter%20Notebook"/>
-</pre>
-
-<p style="display: flex; justify-content: center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=GuillaumeDupuy&theme=dracula&title=Commits,Repositories,Followers,MultiLanguage"/>
+<p align="center"> 
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=GuillaumeDupuy&theme=bear&count_private=true&card_width=8&include_all_commits=true&show_icons=true&hide=issues"/>
+  </a>
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeDupuy&theme=bear&layout=compact&langs_count=8&hide=Jupyter%20Notebook"/>
+  </a>
+  <a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeDupuy&theme=dracula&hide_border=true"/>
+  </a>
+  <a>
+    <img src="https://github-profile-trophy.vercel.app/?username=GuillaumeDupuy&theme=dracula&title=Commits,Repositories,Followers,MultiLanguage"/>
+  </a>
 </p>
 
 <hr>
