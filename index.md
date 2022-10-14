@@ -4,7 +4,7 @@
        style="max-width: 100%;">
     <br>I'm developer, DATA/IA Scientist and CTF Player from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
     <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b> 
-    <br> We are the Friday, 14 October and it is 14&#x2F;10&#x2F;2022, 11:27 ✨<br><br>
+    <br> We are the Friday, 14 October and it is 14&#x2F;10&#x2F;2022, 11:40 ✨<br><br>
   </samp>
 </p>
 
@@ -94,26 +94,6 @@
 <h3>💻 Work Time of last 7 days</h3>
 
 <!--WAKATIME-->
-```text
-⌚ Total time: 3 hrs 12 mins
-
-💬 Languages:
-
-Python   1 hr 16 mins >>>>------ 39.88 %
-Text     38 mins      >>-------- 19.92 %
-Markdown 37 mins      >>-------- 19.29 %
-Go       24 mins      >>-------- 12.91 %
-SQL      13 mins      >--------- 7.26 %
-C        1 min        >--------- 0.75 %
-
-🔥 IDE:
-
-VS Code 3 hrs 12 mins >>>>>>>>>> 100.0 %
-
-💻 OS:
-
-Windows 3 hrs 12 mins >>>>>>>>>> 100.0 %
-```
 <!--/WAKATIME-->
 
 <hr>
