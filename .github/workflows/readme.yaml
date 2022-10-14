@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ "master" ]
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: '0 23 * * *'
 
 jobs:
 
@@ -32,6 +32,8 @@ jobs:
 
 # generate new readme
   generate-readme:
+    needs: ["wakatime"]
+
     runs-on: ubuntu-latest
 
     steps:

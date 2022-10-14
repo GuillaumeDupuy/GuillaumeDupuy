@@ -9,17 +9,6 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 */
 let DATA = {
   name: 'Guillaume',
-  date: new Date().toLocaleDateString('en-GB', {
-    weekday: 'long',
-    month: 'long',
-    day: 'numeric',
-    timeZone: 'Europe/Paris',
-  }),
-  heure: new Date().toLocaleDateString('en-GB', {
-    hour: 'numeric',
-    minute: 'numeric',
-    timeZone: 'Europe/Paris',
-  }),
 };
 /**
   * A - We open 'main.mustache'
