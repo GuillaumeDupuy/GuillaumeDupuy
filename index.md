@@ -4,9 +4,11 @@
        style="max-width: 100%;">
     <br>I'm developer, DATA/IA Scientist and CTF Player from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
     <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b> 
-    <br> We are the Friday, 14 October and it is 14&#x2F;10&#x2F;2022, 11:54 ✨<br><br>
+    <br> We are the Friday, 14 October and it is 14&#x2F;10&#x2F;2022, 12:26 ✨<br><br>
   </samp>
 </p>
+
+<hr>
 
 <h3>🔍 Where to find me</h3>
 
@@ -18,6 +20,8 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+<hr>
 
 <h3>💻 Things I code with</h3>
 
@@ -39,6 +43,8 @@
   <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img alt="apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
 </p>
+
+<hr>
 
 <h3>📤 Open projects</h3>
 
@@ -72,6 +78,8 @@
   <li><a href="https://github.com/GuillaumeDupuy/CTF"><b>CTF Online</b></a><br/><i>Writing CTF solutions step by step</i></li>
 </ul>
 
+<hr>
+
 <h3>📊 My Stats Account</h3>
 
 ![](https://activity-graph.herokuapp.com/graph?username=guillaumedupuy&theme=react-dark)
@@ -90,6 +98,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=GuillaumeDupuy&theme=dracula&title=Commits,Repositories,Followers,MultiLanguage"/>
   </a>
 </p>
+
+<hr>
 
 <h3>💻 Work Time of last 7 days</h3>
 
