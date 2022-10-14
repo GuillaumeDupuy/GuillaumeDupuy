@@ -2,9 +2,8 @@
   <samp>
     <img  align="center" src="https://readme-typing-svg.herokuapp.com/?lines=👋%20I%27m%20Guillaume,;Welcome+To%20My%20github%20profile.&font=Fira%20Code&center=true&width=380&height=50" 
        style="max-width: 100%;">
-    <br>I'm developer, DATA/IA Scientist and CTF Player from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
-    <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b> 
-    <br> We are the Saturday, 15 October and it is 15&#x2F;10&#x2F;2022, 01:32 ✨<br><br>
+    <br>I'm developer in DATA/IA Scientist and CTF Player from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>
+    <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France !</b> 
   </samp>
 </p>
 
@@ -105,24 +104,28 @@
 
 <!--WAKATIME-->
 ```text
-⌚ Total time: 3 hrs 12 mins
+⌚ Total time: 12 hrs 51 mins
 
 💬 Languages:
 
-Python   1 hr 16 mins >>>>------ 39.88 %
-Text     38 mins      >>-------- 19.92 %
-Markdown 37 mins      >>-------- 19.29 %
-Go       24 mins      >>-------- 12.91 %
-SQL      13 mins      >--------- 7.26 %
-C        1 min        >--------- 0.75 %
+Python     7 hrs 34 mins >>>>>>---- 58.93 %
+Markdown   1 hr 13 mins  >--------- 9.5 %
+Mustache   1 hr 4 mins   >--------- 8.3 %
+YAML       57 mins       >--------- 7.48 %
+Text       45 mins       >--------- 5.89 %
+Go         24 mins       >--------- 3.22 %
+C          15 mins       >--------- 2.06 %
+Other      15 mins       >--------- 2.02 %
+SQL        13 mins       >--------- 1.81 %
+JavaScript 6 mins        >--------- 0.78 %
 
 🔥 IDE:
 
-VS Code 3 hrs 12 mins >>>>>>>>>> 100.0 %
+VS Code 12 hrs 51 mins >>>>>>>>>> 100.0 %
 
 💻 OS:
 
-Windows 3 hrs 12 mins >>>>>>>>>> 100.0 %
+Windows 12 hrs 51 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
