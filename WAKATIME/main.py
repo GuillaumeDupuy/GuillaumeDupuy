@@ -78,7 +78,6 @@ for i in r['data']['editors']:
 for i in temp:
     txt.append(i[0]+(" "*(maxName-len(i[0])+1))+ i[2]+(" "*(maxText -len(i[2])+1)) +col(i[1])+"\n")
 
-
 txt.append("\n")
 txt.append("💻 OS:\n")
 txt.append("\n")
