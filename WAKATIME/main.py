@@ -107,3 +107,8 @@ result = partONe + txt + partTwo
 mustachefile=open('main.mustache','w')
 mustachefile.writelines(result)
 mustachefile.close()
+os.system('git config --local user.email "github-actions[bot]@users.noreply.github.com"')
+os.system('git config --local user.name "github-actions[bot]"')
+os.system('git add .')
+os.system('git commit -m "wakatime update"')
+os.system('git push')
