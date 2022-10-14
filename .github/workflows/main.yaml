@@ -2,17 +2,39 @@ name: README build
 
 on:
   push:
-    branches:
-      - master
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
   schedule:
     - cron: '0 */1 * * *'
 
 jobs:
-  build:
+
+#  add wakatime on readme
+  wakatime:
     runs-on: ubuntu-latest
 
     steps:
-# generate readme
+    - uses: actions/checkout@v3
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.10"
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f WAKATIME/requirements.txt ]; then pip install -r WAKATIME/requirements.txt; fi
+    - name: run python
+      run: |
+        python WAKATIME/main.py
+      env : 
+        WAKATIME_API_KEY : ${{ secrets.WAKATIME_API_KEY }}
+
+# generate new readme
+  generate-readme:
+    runs-on: ubuntu-latest
+
+    steps:
     - name: checkout
       uses: actions/checkout@v1
     - name: setup node
@@ -30,6 +52,7 @@ jobs:
       run: node readme.js
       env:
         OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
+        
 # push readme
     - name: Push new README.md
       uses: mikeal/publish-to-github-action@master
