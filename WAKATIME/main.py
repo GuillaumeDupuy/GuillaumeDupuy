@@ -1,9 +1,7 @@
 import os
 import requests
 
-
 blc = ">-"
-
 
 url = "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key="+os.environ['WAKATIME_API_KEY']
 DEL_START  ="<!--WAKATIME-->"
