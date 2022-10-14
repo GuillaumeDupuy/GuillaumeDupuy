@@ -4,7 +4,7 @@
        style="max-width: 100%;">
     <br>I'm developer, DATA/IA Scientist and CTF Player from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> !
     <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France </b> 
-    <br> We are the Friday, 14 October and it is 14&#x2F;10&#x2F;2022, 10:23 ✨<br><br>
+    <br> We are the Friday, 14 October and it is 14&#x2F;10&#x2F;2022, 10:28 ✨<br><br>
   </samp>
 </p>
 
@@ -65,11 +65,11 @@
 
 <h3>⏱ My latest posts</h3>
 <ul>
-  <li><a href="https://guillaumedupuy.fr/"><b>Site PortFolio</b></a><br/><i>Site CV</i><img alt="Site up or down" src="https://img.shields.io/website-up-down-green-red/http/guillaumedupuy.fr.svg"/></li>
+  <li><a href="https://guillaumedupuy.fr/"><b>Site PortFolio</b></a><br/><i>Site CV </i><img alt="Site up or down" src="https://img.shields.io/website-up-down-green-red/http/guillaumedupuy.fr.svg"/></li>
   <li><a href="https://github.com/GuillaumeDupuy/Projet_NoSQL"><b>Projet NoSQL</b></a><br/><i>MongoDB API analysis project</i></li>
   <li><a href="https://github.com/GuillaumeDupuy/Scraping_Python"><b>Web & Flask API & Database Scraping Project</b></a><br/><i>Project to scrape data from a website, convert it into a NoSQL database and use it in a Flask API and make a dashboard of this data in Streamlit</i></li>
   <li><a href="https://github.com/GuillaumeDupuy/Machine-Learning"><b>Projet Machine Learning</b></a><br/><i>Manual dataset analysis project (pre-processing, visualization, implementation of algorithms, optimization and comparison)</i></li>
-  <li><a href="https://github.com/GuillaumeDupuy/CTF">CTF Online</a><br/><i>Writing CTF solutions step by step</i></li>
+  <li><a href="https://github.com/GuillaumeDupuy/CTF"><b>CTF Online</b></a><br/><i>Writing CTF solutions step by step</i></li>
 </ul>
 
 <h3>📊 My Stats Account</h3>
