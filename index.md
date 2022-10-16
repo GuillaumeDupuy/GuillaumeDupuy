@@ -4,6 +4,7 @@
        style="max-width: 100%;">
     <br>I'm developer in DATA/IA Scientist and CTF Player from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>
     <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France !</b> 
+    <br> We are the Sunday, 16 October and it is 16&#x2F;10&#x2F;2022, 03:10 ✨<br><br>
   </samp>
 </p>
 
@@ -104,28 +105,31 @@
 
 <!--WAKATIME-->
 ```text
-⌚ Total time: 12 hrs 51 mins
+⌚ Total time: 14 hrs 32 mins
 
 💬 Languages:
 
-Python     7 hrs 34 mins >>>>>>---- 58.93 %
-Markdown   1 hr 13 mins  >--------- 9.5 %
-Mustache   1 hr 4 mins   >--------- 8.3 %
-YAML       57 mins       >--------- 7.48 %
-Text       45 mins       >--------- 5.89 %
-Go         24 mins       >--------- 3.22 %
-C          15 mins       >--------- 2.06 %
-Other      15 mins       >--------- 2.02 %
-SQL        13 mins       >--------- 1.81 %
-JavaScript 6 mins        >--------- 0.78 %
+Python     8 hrs 22 mins >>>>>>---- 57.53 %
+Markdown   1 hr 30 mins  >>-------- 10.38 %
+Mustache   1 hr 6 mins   >--------- 7.67 %
+YAML       1 hr 1 min    >--------- 7.01 %
+Text       54 mins       >--------- 6.27 %
+Go         24 mins       >--------- 2.85 %
+C          20 mins       >--------- 2.4 %
+Other      17 mins       >--------- 2.02 %
+SQL        13 mins       >--------- 1.6 %
+Lua        10 mins       >--------- 1.23 %
+JavaScript 6 mins        >--------- 0.74 %
+Bash       1 min         >--------- 0.18 %
+HTML       1 min         >--------- 0.13 %
 
 🔥 IDE:
 
-VS Code 12 hrs 51 mins >>>>>>>>>> 100.0 %
+VS Code 14 hrs 32 mins >>>>>>>>>> 100.0 %
 
 💻 OS:
 
-Windows 12 hrs 51 mins >>>>>>>>>> 100.0 %
+Windows 14 hrs 32 mins >>>>>>>>>> 100.0 %
 ```
 <!--/WAKATIME-->
 
