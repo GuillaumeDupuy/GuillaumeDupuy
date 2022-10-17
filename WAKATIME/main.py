@@ -1,15 +1,15 @@
 import os
 import requests
 
-blc = ">-"
+blc = "🟩⬜🟨"
 
 url = "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key="+os.environ['WAKATIME_API_KEY']
 DEL_START  ="<!--WAKATIME-->"
 DEL_END    ="<!--/WAKATIME-->"
 n = 0
-mustachefile=open('main.mustache','r')
-lines = mustachefile.readlines()
-mustachefile.close()
+readmefile=open('README.md','r')
+lines = readmefile.readlines()
+readmefile.close()
 
 start =-1
 end = -1
@@ -35,6 +35,8 @@ def col(pers):
         t = pers - i*10
         if t <= 0:
             result += blc[1]
+        elif t < 5:
+            result += blc[2]
         else:
             result += blc[0]
     return result + " " + str(pers) + " %"
@@ -100,14 +102,14 @@ txt.append("```\n")
 
 
 if conttemp == txt:
-    print("No change in main.mustache")
+    print("No change in README.md")
     exit(0)
 result = partONe + txt + partTwo
-mustachefile=open('main.mustache','w')
-mustachefile.writelines(result)
-mustachefile.close()
+readmefile=open('README.md','w')
+readmefile.writelines(result)
+readmefile.close()
 os.system('git config --local user.email "github-actions[bot]@users.noreply.github.com"')
 os.system('git config --local user.name "github-actions[bot]"')
 os.system('git add .')
-os.system('git commit -m "wakatime update"')
+os.system('git commit -m "Wakatime Stats Update"')
 os.system('git push')
