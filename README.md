@@ -144,4 +144,6 @@ Windows 16 hrs 41 mins 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100.0 %
 
 ![Snake animation](https://github.com/GuillaumeDupuy/GuillaumeDupuy/blob/output/github-contribution-grid-snake.svg)
 
+<hr>
+
 <p align="center">Template By GuillaumeDupuy</p>
