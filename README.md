@@ -4,7 +4,7 @@
        style="max-width: 100%;">
     <br>I'm developer in DATA/IA Scientist and CTF Player from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>
     <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France !</b> 
-    <br> We are the Sunday, 16 October and it is 16&#x2F;10&#x2F;2022, 03:10 ✨<br><br>
+    <br> We are the Monday, 17 October ✨<br><br>
   </samp>
 </p>
 
