@@ -140,4 +140,8 @@ Windows 16 hrs 41 mins 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100.0 %
 
 <hr>
 
+<h3>🐍 Oh my god Snake eat all my work for the year</h3>
+
+![Snake animation](https://github.com/GuillaumeDupuy/GuillaumeDupuy/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">Template By GuillaumeDupuy</p>
