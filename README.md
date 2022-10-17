@@ -3,8 +3,7 @@
     <img  align="center" src="https://readme-typing-svg.herokuapp.com/?lines=👋%20I%27m%20Guillaume,;Welcome+To%20My%20github%20profile.&font=Fira%20Code&center=true&width=380&height=50" 
        style="max-width: 100%;">
     <br>I'm developer in DATA/IA Scientist and CTF Player from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>
-    <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France !</b> 
-    <br> We are the Monday, 17 October ✨<br><br>
+    <br>at <em>Ynov Informatique Ingésup</em> in <b>Paris, France !</b>
   </samp>
 </p>
 
