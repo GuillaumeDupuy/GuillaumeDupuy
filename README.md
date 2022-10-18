@@ -50,11 +50,12 @@
 <table>
   <thead align="center">
     <tr>
-      <td><b>🎁 Projects</b></td>
+      <td><b>📂 Projects</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
       <td><b>📬 Pull requests</b></td>
+      <td><b>🔨 Last Commit</b></td>
     </tr>
   </thead>
   <tbody>
@@ -64,6 +65,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/tot0p/Hello-World.svg"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/tot0p/Hello-World.svg"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tot0p/Hello-World.svg"/></td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/tot0p/Hello-World.svg"></img> </td>
     </tr>
   </tbody>
 </table>
@@ -83,20 +85,11 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=guillaumedupuy&theme=react-dark)
 
-<p align="center"> 
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=GuillaumeDupuy&theme=bear&count_private=true&card_width=8&include_all_commits=true&show_icons=true&hide=issues"/>
-  </a>
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeDupuy&theme=bear&layout=compact&langs_count=8&hide=Jupyter%20Notebook"/>
-  </a>
-  <a>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeDupuy&theme=dracula&hide_border=true"/>
-  </a>
-  <a>
-    <img src="https://github-profile-trophy.vercel.app/?username=GuillaumeDupuy&theme=dracula&title=Commits,Repositories,Followers,MultiLanguage"/>
-  </a>
-</p>
+
+|Stats />|Streak />|Languages />
+|---|---|---|
+|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuillaumeDupuy&theme=bear&count_private=true&card_width=8&include_all_commits=true&show_icons=true&hide=issues)|![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeDupuy&theme=dracula&hide_border=true)|![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeDupuy&theme=bear&layout=compact&langs_count=8&hide=Jupyter%20Notebook)
+||![GitHub Rank](https://github-profile-trophy.vercel.app/?username=GuillaumeDupuy&theme=dracula&title=Commits,Repositories,Followers,MultiLanguage,PullRequest,Stars)
 
 <hr>
 
