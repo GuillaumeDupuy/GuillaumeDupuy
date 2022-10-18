@@ -35,7 +35,7 @@ def col(pers):
         t = pers - i*10
         if t <= 0:
             result += blc[1]
-        elif t < 5:
+        elif t < 10:
             result += blc[2]
         else:
             result += blc[0]
