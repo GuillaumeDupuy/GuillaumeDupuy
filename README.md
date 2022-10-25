@@ -93,7 +93,7 @@
 
 <hr>
 
-<h3>💻 Work Time of last 7 days</h3>
+<h3>💻 Work Time per Language</h3>
 
 <!--WAKATIME-->
 ```text
