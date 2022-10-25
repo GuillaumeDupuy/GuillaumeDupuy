@@ -86,7 +86,7 @@
 ![](https://activity-graph.herokuapp.com/graph?username=guillaumedupuy&theme=react-dark)
 
 
-|Stats />|Streak />|Languages />
+|Stats |Streak |Languages
 |---|---|---|
 |![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuillaumeDupuy&theme=bear&count_private=true&card_width=8&include_all_commits=true&show_icons=true&hide=issues)|![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeDupuy&theme=dracula&hide_border=true)|![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeDupuy&theme=bear&layout=compact&langs_count=8&hide=Jupyter%20Notebook)
 ||![GitHub Rank](https://github-profile-trophy.vercel.app/?username=GuillaumeDupuy&theme=dracula&title=Commits,Repositories,Followers,MultiLanguage,PullRequest,Stars)
@@ -133,7 +133,7 @@ Windows 37 hrs 8 mins 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100.0 %
 
 <h3>✨ Projects starred by me</h3>
 
-[My Awesome Stars](https://github.com/GuillaumeDupuy/my-awesome-stars)
+[My Awesome Stars](https://guillaumedupuy.github.io/my-awesome-stars/)
 
 <hr>
 
