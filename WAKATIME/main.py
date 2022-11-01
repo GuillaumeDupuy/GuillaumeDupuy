@@ -3,7 +3,7 @@ import requests
 
 blc = "🟩⬜🟨"
 
-url = "https://wakatime.com/api/v1/users/current/stats/all_time?api_key="+os.environ['WAKATIME_API_KEY']
+url = "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key="+os.environ['WAKATIME_API_KEY']
 DEL_START  ="<!--WAKATIME-->"
 DEL_END    ="<!--/WAKATIME-->"
 n = 0
