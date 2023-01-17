@@ -88,7 +88,7 @@
 
 |Stats |Streak |Languages
 |---|---|---|
-|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuillaumeDupuy&theme=bear&count_private=true&card_width=8&include_all_commits=true&show_icons=true&hide=Issues)|![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeDupuy&theme=dracula&hide_border=true)|![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeDupuy&theme=bear&hide_border=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook)
+|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuillaumeDupuy&theme=bear&count_private=true&card_width=8&include_all_commits=true&show_icons=true&hide=Issues)|![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeDupuy&theme=bear&hide_border=true)|![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeDupuy&theme=bear&hide_border=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook)
 ||![GitHub Rank](https://github-profile-trophy.vercel.app/?username=GuillaumeDupuy&theme=dracula&title=Commits,Repositories,Followers,MultiLanguage,PullRequest,Stars)
 
 <hr>
