@@ -96,6 +96,7 @@
   <summary><h3>Here you can find some of my profils</h3></summary>
   <a href="https://www.hackerrank.com/GuillaumeDupuy"><img align="left" alt="HackerRank" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" style="max-width: 100%;"></a>
   <a href="https://ctflearn.com/user/Varius93"><img align="left" alt="CTF learn" width="90px" src="https://deskel.github.io/assets/images/ctflearn/logo.png" style="max-width: 100%;"></a>
+  <a href="https://www.codingame.com/profile/d14c23439c339700804998724f41533d2814925"><img align="left" alt="HackerRank" width="40px" src="https://imgur.com/a/kJuELQ7" style="max-width: 100%;"></a>
   <br><br>
 </details>
 
