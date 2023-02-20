@@ -72,11 +72,12 @@
 
 <h3>⏱ My latest posts</h3>
 <ul>
-  <li><a href="https://guillaumedupuy.fr/"><b>Site PortFolio</b></a><br/><i>Site CV </i><img alt="Site up or down" src="https://img.shields.io/website-up-down-green-red/http/guillaumedupuy.fr.svg"/></li>
-  <li><a href="https://github.com/GuillaumeDupuy/Projet_NoSQL"><b>Projet NoSQL</b></a><br/><i>MongoDB API analysis project</i></li>
-  <li><a href="https://github.com/GuillaumeDupuy/Scraping_Python"><b>Web & Flask API & Database Scraping Project</b></a><br/><i>Project to scrape data from a website, convert it into a NoSQL database and use it in a Flask API and make a dashboard of this data in Streamlit</i></li>
-  <li><a href="https://github.com/GuillaumeDupuy/Machine-Learning"><b>Projet Machine Learning</b></a><br/><i>Manual dataset analysis project (pre-processing, visualization, implementation of algorithms, optimization and comparison)</i></li>
   <li><a href="https://github.com/GuillaumeDupuy/CTF"><b>CTF Online</b></a><br/><i>Writing CTF solutions step by step</i></li>
+  <li><a href="https://github.com/FeitanSama/mlutils"><b>Package Python ML</b></a><br/><i>Creating my own sklearn/pandas package</i></li>
+  <li><a href="https://guillaumedupuy.fr/"><b>Site PortFolio</b></a><br/><i>Site CV </i><img alt="Site up or down" src="https://img.shields.io/website-up-down-green-red/http/guillaumedupuy.fr.svg"/></li>
+  <li><a href="https://github.com/GuillaumeDupuy/Machine-Learning"><b>Projet Machine Learning</b></a><br/><i>Manual dataset analysis project (pre-processing, visualization, implementation of algorithms, optimization and comparison)</i></li>
+  <li><a href="https://github.com/GuillaumeDupuy/Scraping_Python"><b>Web & Flask API & Database Scraping Project</b></a><br/><i>Project to scrape data from a website, convert it into a NoSQL database and use it in a Flask API and make a dashboard of this data in Streamlit</i></li>
+  <li><a href="https://github.com/GuillaumeDupuy/Projet_NoSQL"><b>Projet NoSQL</b></a><br/><i>MongoDB API analysis project</i></li>
 </ul>
 
 <hr>
@@ -90,6 +91,13 @@
 |---|---|---|
 |![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuillaumeDupuy&theme=bear&count_private=true&card_width=8&include_all_commits=true&show_icons=true&hide=Issues)|![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeDupuy&theme=bear&hide_border=true)|![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeDupuy&theme=bear&hide_border=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook)
 ||![GitHub Rank](https://github-profile-trophy.vercel.app/?username=GuillaumeDupuy&theme=dracula&title=Commits,Repositories,Followers,MultiLanguage,PullRequest,Stars)
+
+<details>
+  <summary><h3>Here you can find some of my profils</h3></summary>
+  <a href="https://www.hackerrank.com/GuillaumeDupuy"><img align="left" alt="HackerRank" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" style="max-width: 100%;"></a>
+  <a href="https://ctflearn.com/user/Varius93"><img align="left" alt="CTF learn" width="90px" src="https://deskel.github.io/assets/images/ctflearn/logo.png" style="max-width: 100%;"></a>
+  <br><br>
+</details>
 
 <hr>
 
