@@ -96,8 +96,8 @@
   <summary><h3>Here you can find some of my profils</h3></summary>
   <a href="https://www.hackerrank.com/GuillaumeDupuy"><img align="left" alt="HackerRank" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" style="max-width: 100%;"></a>
   <a href="https://ctflearn.com/user/Varius93"><img align="left" alt="CTFlearn" width="90px" src="https://deskel.github.io/assets/images/ctflearn/logo.png" style="max-width: 100%;"></a>
-  <a href="https://www.42ctf.org/en/scoreboard/?page=3"><img align="left" alt="42CTF" width="180px" src="img/42ctf_logo.png" style="max-width: 100%;"></a>
-  <a href="https://www.root-me.org/Varius-719910?lang=fr#0d377b7ef72617e4dfeae258abfcf389"><img align="left" alt="RootMe" width="180px" src="img/rootme.svg" style="max-width: 100%;"></a>
+  <a href="https://www.42ctf.org/en/scoreboard/?page=3"><img align="left" alt="42CTF" width="40px" src="img/42ctf_logo.png" style="max-width: 100%;"></a>
+  <a href="https://www.root-me.org/Varius-719910?lang=fr#0d377b7ef72617e4dfeae258abfcf389"><img align="left" alt="RootMe" width="40px" src="img/rootme.svg" style="max-width: 100%;"></a>
   <a href="https://www.codingame.com/profile/d14c23439c339700804998724f41533d2814925"><img align="left" alt="Codingame" width="180px" src="img/codingame-logo.png" style="max-width: 100%;"></a>
   <br><br>
 </details>
