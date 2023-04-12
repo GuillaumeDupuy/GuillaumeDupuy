@@ -72,6 +72,8 @@
 
 <h3>⏱ My latest posts</h3>
 <ul>
+  <li><a href="https://github.com/GuillaumeDupuy/Terminal-Web"><b>Terminal Web</b></a><br/><i>Command-line terminal that runs in a web browser</i></li>
+  <li><a href="https://github.com/GuillaumeDupuy/restfulapi-with-tests"><b>RESTful API Test</b></a><br/><i>A RESTful API & these different tests</i></li>
   <li><a href="https://github.com/GuillaumeDupuy/CTF"><b>CTF Online</b></a><br/><i>Writing CTF solutions step by step</i></li>
   <li><a href="https://github.com/FeitanSama/mlutils"><b>Package Python ML</b></a><br/><i>Creating my own sklearn/pandas package</i></li>
   <li><a href="https://guillaumedupuy.fr/"><b>Site PortFolio</b></a><br/><i>Site CV </i><img alt="Site up or down" src="https://img.shields.io/website-up-down-green-red/http/guillaumedupuy.fr.svg"/></li>
