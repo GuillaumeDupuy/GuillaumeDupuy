@@ -135,6 +135,11 @@
 <h3>🐍 Oh my god Snake eat all my work for the year</h3>
 
 ![Snake animation](https://github.com/GuillaumeDupuy/GuillaumeDupuy/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuillaumeDupuy/GuillaumeDupuy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuillaumeDupuy/GuillaumeDupuy/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GuillaumeDupuy/GuillaumeDupuy/output/github-contribution-grid-snake.svg">
+</picture>
 
 <hr>
 
