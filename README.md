@@ -111,16 +111,19 @@
 
 <!--WAKATIME-->
 ```text
-⌚ Total time: 0 secs
+⌚ Total time: 6 mins
 
 💬 Languages:
 
+Markdown 6 mins 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100.0 %
 
 🔥 IDE:
 
+VS Code 6 mins 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100.0 %
 
 💻 OS:
 
+Windows 6 mins 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100.0 %
 ```
 <!--/WAKATIME-->
 
