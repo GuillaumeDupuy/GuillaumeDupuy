@@ -115,15 +115,12 @@
 
 💬 Languages:
 
-Markdown 0 secs 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100.0 %
 
 🔥 IDE:
 
-VS Code 0 secs 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100.0 %
 
 💻 OS:
 
-Windows 0 secs 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100.0 %
 ```
 <!--/WAKATIME-->
 
