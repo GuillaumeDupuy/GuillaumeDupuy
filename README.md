@@ -111,19 +111,16 @@
 
 <!--WAKATIME-->
 ```text
-⌚ Total time: 6 mins
+⌚ Total time: 0 secs
 
 💬 Languages:
 
-PHP 6 mins 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100.0 %
 
 🔥 IDE:
 
-VS Code 6 mins 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100.0 %
 
 💻 OS:
 
-Windows 6 mins 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100.0 %
 ```
 <!--/WAKATIME-->
 
